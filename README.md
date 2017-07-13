@@ -44,8 +44,8 @@ Return a the new retweet object.
   "username": [STRING]
 }
 
-Return all retweets with additional data.
 GET
+Return all retweets with additional data.
 /tweets/getRetweets
 [
  {
